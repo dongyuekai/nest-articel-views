@@ -28,6 +28,7 @@
     "@types/express-session": "^1.18.0",
     "express-session": "^1.18.0",
     "mysql2": "^3.11.0",
+    "redis": "^4.7.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1",
     "typeorm": "^0.3.20"
